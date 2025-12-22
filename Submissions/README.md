@@ -43,6 +43,21 @@
 
 ---
 
+# 📌 How to Upvote My LeetCode Submission
+
+<p align="center">
+  <!-- Replace this with your GIF path -->
+  <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Gifs/upVote.gif" 
+       alt="How to upvote my LeetCode solution" 
+       width="600"/>
+</p>
+
+<p align="center">
+  <em>Quick demo showing how to upvote a LeetCode solution</em>
+</p>
+
+---
+
 ## 🔗 View All Submissions
 
 <p align="center">
@@ -54,4 +69,5 @@
 ---
 
 ⭐ *These solutions focus on clarity, edge cases, and time & space optimization.*
+
 
