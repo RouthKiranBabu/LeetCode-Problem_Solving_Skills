@@ -13,7 +13,7 @@
 
 ---
 
-## 📘 My LeetCode Solution Submissions
+<h1 align="center">📘 All My LeetCode Solution Submissions</h1>
 
 <table align="center">
   <tr>
@@ -57,3 +57,4 @@ If you find a solution useful, an **upvote is always appreciated** 🙌
 
 ⭐ If my solutions help you, please consider giving them an upvote —  
 it motivates me to keep sharing high-quality, well-explained solutions.
+
