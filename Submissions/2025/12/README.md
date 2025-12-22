@@ -1,18 +1,3 @@
-# 📌 How to Upvote My LeetCode Submission
-
-<p align="center">
-  <!-- Replace this with your GIF path -->
-  <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Gifs/upVote.gif" 
-       alt="How to upvote my LeetCode solution" 
-       width="600"/>
-</p>
-
-<p align="center">
-  <em>Quick demo showing how to upvote a LeetCode solution</em>
-</p>
-
----
-
 <h1 align="center">📘 All My LeetCode Solution Submissions</h1>
 
 <table align="center">
@@ -44,6 +29,21 @@
 
 ---
 
+# 📌 How to Upvote My LeetCode Submission
+
+<p align="center">
+  <!-- Replace this with your GIF path -->
+  <img src="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/blob/main/Resources/Gifs/upVote.gif" 
+       alt="How to upvote my LeetCode solution" 
+       width="600"/>
+</p>
+
+<p align="center">
+  <em>Quick demo showing how to upvote a LeetCode solution</em>
+</p>
+
+---
+
 ## 🔗 My LeetCode Profile
 
 <p align="center">
@@ -67,6 +67,7 @@ If you find a solution useful, an **upvote is always appreciated** 🙌
 
 ⭐ If my solutions help you, please consider giving them an upvote —  
 it motivates me to keep sharing high-quality, well-explained solutions.
+
 
 
 
