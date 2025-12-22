@@ -1,4 +1,4 @@
-# 📅 Submissions by Year & Month
+<h1 align="center">📅 Submissions by Year & Month</h1>
 
 <table align="center">
   <thead>
@@ -54,3 +54,4 @@
 ---
 
 ⭐ *These solutions focus on clarity, edge cases, and time & space optimization.*
+
