@@ -30,6 +30,16 @@
       </a>
     </td>
   </tr>
+
+  <!--<tr>
+  <td><strong>Problem Name</strong></td>
+  <td align="center">
+    <a href="LEETCODE_SOLUTION_LINK" target="_blank">
+      <img src="https://img.shields.io/badge/Upvote%20%26%20View%20Solution-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </td>
+</tr>-->
+
 </table>
 
 ---
@@ -57,4 +67,5 @@ If you find a solution useful, an **upvote is always appreciated** 🙌
 
 ⭐ If my solutions help you, please consider giving them an upvote —  
 it motivates me to keep sharing high-quality, well-explained solutions.
+
 
