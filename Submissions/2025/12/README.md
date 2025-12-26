@@ -7,6 +7,15 @@
   </tr>
 
 <tr>
+  <td><strong>Roman to Integer</strong></td>
+  <td align="center">
+    <a href="https://leetcode.com/problems/roman-to-integer/solutions/7440773/roman-to-integer-java-javascript-python-r5qqo" target="_blank">
+      <img src="https://img.shields.io/badge/Upvote%20%26%20View%20Solution-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </td>
+</tr>
+
+<tr>
   <td><strong>Palindrome Number</strong></td>
   <td align="center">
     <a href="https://leetcode.com/problems/palindrome-number/solutions/7433635/palindrome-number-java-javascript-python-v1qj" target="_blank">
@@ -76,6 +85,7 @@ If you find a solution useful, an **upvote is always appreciated** 🙌
 
 ⭐ If my solutions help you, please consider giving them an upvote —  
 it motivates me to keep sharing high-quality, well-explained solutions.
+
 
 
 
