@@ -1,4 +1,4 @@
-<h1 align="center">📅 Submissions by Year & Month</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="40" height="40" /> Submissions by Year & Month</h1>
 
 <table align="center">
   <thead>
@@ -69,5 +69,6 @@
 ---
 
 ⭐ *These solutions focus on clarity, edge cases, and time & space optimization.*
+
 
 
