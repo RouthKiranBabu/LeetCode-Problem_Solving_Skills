@@ -7,6 +7,15 @@
   </tr>
 
 <tr>
+  <td><strong>Valid Parentheses</strong></td>
+  <td align="center">
+    <a href="https://leetcode.com/problems/valid-parentheses/solutions/7449712/valid-parentheses-java-javascript-python-qaua" target="_blank">
+      <img src="https://img.shields.io/badge/Upvote%20%26%20View%20Solution-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </td>
+</tr>
+
+<tr>
   <td><strong>Longest Common Prefix</strong></td>
   <td align="center">
     <a href="https://leetcode.com/problems/longest-common-prefix/solutions/7447281/longest-common-prefix-java-javascript-py-ldl3" target="_blank">
@@ -94,6 +103,7 @@ If you find a solution useful, an **upvote is always appreciated** 🙌
 
 ⭐ If my solutions help you, please consider giving them an upvote —  
 it motivates me to keep sharing high-quality, well-explained solutions.
+
 
 
 
