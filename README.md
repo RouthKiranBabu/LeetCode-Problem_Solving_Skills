@@ -1,4 +1,5 @@
 <h1 align="center">👨‍💻 <i>LeetCode</i></h1>
+
 🧠 This repository contains my journey of solving [LeetCode problems](https://leetcode.com/problemset/?difficulty=EASY&page=1). Each folder includes the problem statement, my solution, and a clear explanation. Follow along as I practice, learn, and improve my coding and problem-solving skills! 🚀
 <div align='center' >
  
