@@ -9,7 +9,26 @@
   </thead>
 
   <tbody>
-    <!-- =================== 2025 =================== -->
+
+<!-- =================== 2026 =================== -->
+<tr>
+ <td align="center"><strong>2026</strong></td>
+ <td align="center">
+
+  <a href="https://github.com/RouthKiranBabu/LeetCode-Using-Java-JavaScript-and-Python/tree/main/Submissions/2025/12#-all-my-leetcode-solution-submissions" target="_blank">
+    <img src="https://img.shields.io/badge/January-Upvote%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+<!--
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/February-Upvote%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+-->
+ </td>
+</tr>
+
+
+
+<!-- =================== 2025 =================== -->
 <tr>
  <td align="center"><strong>2025</strong></td>
  <td align="center">
@@ -69,6 +88,7 @@
 ---
 
 ⭐ *These solutions focus on clarity, edge cases, and time & space optimization.*
+
 
 
 
