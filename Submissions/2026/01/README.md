@@ -7,6 +7,15 @@
   </tr>
 
 <tr>
+  <td><strong>Find the Index of the First Occurrence in a String</strong></td>
+  <td align="center">
+    <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7480379/find-the-index-of-the-first-occurrence-i-wz6g" target="_blank">
+      <img src="https://img.shields.io/badge/Upvote%20%26%20View%20Solution-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </td>
+</tr>
+
+<tr>
   <td><strong>Remove Element</strong></td>
   <td align="center">
     <a href="https://leetcode.com/problems/remove-element/solutions/7471962/remove-element-using-java-javascript-pyt-3s2w" target="_blank">
@@ -43,6 +52,7 @@
 </tr>-->
 
 </table>
+
 
 
 
